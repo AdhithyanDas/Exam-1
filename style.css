@@ -1,0 +1,68 @@
+.navbar-brand{
+    color: greenyellow !important;
+    font-size: 50px !important;
+    font-weight: bold !important;
+}
+
+.home, h1{
+    color: greenyellow !important;
+}
+
+i{
+    color: chartreuse;
+    font-size: 30px;
+}
+
+nav ul li a{
+    font-size: 18px !important;
+}
+
+img{
+    width: 100%;
+    max-height: 650px;
+}
+
+.card{
+    background-color: rgba(224, 219, 219, 0.467) !important;
+    min-height: 200px;
+    padding-top: 30px;
+    border: none !important;
+}
+
+.section{
+    height: 650px;
+    background-image: url('IMG/images\ \(1\).jpeg');
+    background-size: cover;
+    background-attachment: fixed; 
+    padding-left: 100px !important;
+}
+
+.section p{
+    color: orange;
+    font-size: 25px;
+    margin-top: 150px;
+}
+
+.section h1{
+    font-size: 65px;
+    font-weight: bold;
+}
+
+input{
+    width: 300px !important;
+    border-radius: 50px 0 0 50px;
+    border-color: orange;
+    height: 50px;
+    margin-top: 10px !important;
+    margin-left: 30px !important;
+}
+
+button{
+    background-color: greenyellow;
+    color: aliceblue;
+    width: 100px !important;
+    border: none;
+    height: 50px;
+    margin-top: 10px !important;
+}
+
